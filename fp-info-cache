@@ -1,4 +1,4 @@
-26429787556994766
+26438640871289918
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -105601,3 +105601,38 @@ Varistor VF
 0
 2
 2
+gpad1
+1X09
+<b>PIN HEADER</b>
+
+0
+9
+9
+gpad1
+0207_10
+<b>RESISTOR</b><p>{return}type 0207, grid 10 mm
+
+0
+2
+2
+gpad1
+CHERRY_MX
+Cherry keymodule MX{return}Default shape
+
+0
+2
+2
+gpad1
+DIL16
+<b>Dual In Line Package</b>
+
+0
+16
+16
+gpad1
+DIP254P762X508-20
+
+
+0
+20
+20
