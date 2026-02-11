@@ -3461,6 +3461,12 @@
 		(uuid "35e162bb-7ba3-46ec-a90c-a04b99149eff")
 	)
 	(junction
+		(at 25.4 96.52)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "365e207b-af12-4ded-8cab-5b4bcffe6b41")
+	)
+	(junction
 		(at 160.02 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3593,7 +3599,7 @@
 		(uuid "9666e44a-66b2-4023-840d-1d8d0deacaf4")
 	)
 	(junction
-		(at 36.83 101.6)
+		(at 39.37 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "992094af-826d-4459-bf14-2b2830b9d426")
@@ -3621,6 +3627,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5681d69-0d3d-4f88-a46b-e31d3f59a479")
+	)
+	(junction
+		(at 27.94 91.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6889cea-4141-4303-a72e-8cd8c299db0a")
 	)
 	(junction
 		(at 200.66 40.64)
@@ -3960,6 +3972,16 @@
 	)
 	(wire
 		(pts
+			(xy 25.4 96.52) (xy 25.4 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2509fedb-abbb-4b7f-9248-ace812163508")
+	)
+	(wire
+		(pts
 			(xy 104.14 41.91) (xy 109.22 41.91)
 		)
 		(stroke
@@ -4030,7 +4052,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 101.6) (xy 41.91 101.6)
+			(xy 39.37 101.6) (xy 41.91 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4140,7 +4162,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 96.52) (xy 41.91 96.52)
+			(xy 40.64 96.52) (xy 41.91 96.52)
 		)
 		(stroke
 			(width 0)
@@ -4430,7 +4452,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 107.95) (xy 36.83 101.6)
+			(xy 39.37 107.95) (xy 39.37 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4750,7 +4772,17 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 82.55) (xy 25.4 107.95)
+			(xy 25.4 96.52) (xy 27.94 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "76931285-69a2-4253-8ed4-1b77af8e5f7c")
+	)
+	(wire
+		(pts
+			(xy 25.4 82.55) (xy 25.4 96.52)
 		)
 		(stroke
 			(width 0)
@@ -4800,7 +4832,7 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 80.01) (xy 39.37 80.01)
+			(xy 35.56 80.01) (xy 40.64 80.01)
 		)
 		(stroke
 			(width 0)
@@ -4940,16 +4972,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 102.87) (xy 27.94 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8a23b516-e1ce-4099-bf74-717df438e2ac")
-	)
-	(wire
-		(pts
 			(xy 261.62 92.71) (xy 271.78 92.71)
 		)
 		(stroke
@@ -4960,7 +4982,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 80.01) (xy 39.37 96.52)
+			(xy 40.64 80.01) (xy 40.64 96.52)
 		)
 		(stroke
 			(width 0)
@@ -5140,7 +5162,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 107.95) (xy 36.83 107.95)
+			(xy 34.29 107.95) (xy 39.37 107.95)
 		)
 		(stroke
 			(width 0)
@@ -5330,7 +5352,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 104.14) (xy 41.91 104.14)
+			(xy 30.48 104.14) (xy 41.91 104.14)
 		)
 		(stroke
 			(width 0)
@@ -5340,7 +5362,7 @@
 	)
 	(wire
 		(pts
-			(xy 21.59 91.44) (xy 41.91 91.44)
+			(xy 21.59 91.44) (xy 27.94 91.44)
 		)
 		(stroke
 			(width 0)
@@ -5650,7 +5672,7 @@
 	)
 	(wire
 		(pts
-			(xy 36.83 92.71) (xy 36.83 101.6)
+			(xy 39.37 93.98) (xy 39.37 101.6)
 		)
 		(stroke
 			(width 0)
@@ -5870,7 +5892,7 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 92.71) (xy 36.83 92.71)
+			(xy 30.48 93.98) (xy 39.37 93.98)
 		)
 		(stroke
 			(width 0)
@@ -5967,6 +5989,16 @@
 			(type default)
 		)
 		(uuid "f941ffc2-a5d6-452e-be39-c73f9455027f")
+	)
+	(wire
+		(pts
+			(xy 27.94 91.44) (xy 41.91 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fae23029-980e-4f90-94c6-85f31256c10f")
 	)
 	(wire
 		(pts
@@ -7796,7 +7828,7 @@
 	)
 	(symbol
 		(lib_id "gpad1-eagle-import:R-US_0207/10")
-		(at 27.94 97.79 90)
+		(at 30.48 99.06 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7805,7 +7837,7 @@
 		(fields_autoplaced yes)
 		(uuid "598c8955-2221-4d74-8d8a-1f9fa68c4716")
 		(property "Reference" "R29"
-			(at 30.48 96.5199 90)
+			(at 33.02 97.7899 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7814,7 +7846,7 @@
 			)
 		)
 		(property "Value" "10K"
-			(at 30.48 99.0599 90)
+			(at 33.02 100.3299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7823,7 +7855,7 @@
 			)
 		)
 		(property "Footprint" "gpad1:0207_10"
-			(at 27.94 97.79 0)
+			(at 30.48 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7832,7 +7864,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 27.94 97.79 0)
+			(at 30.48 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7841,7 +7873,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 27.94 97.79 0)
+			(at 30.48 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10089,6 +10121,74 @@
 			(project "gtPaddle"
 				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
 					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
+		(at 27.94 93.98 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d3004d08-bddb-4135-b7cb-0f0b0b670026")
+		(property "Reference" "C2"
+			(at 29.464 92.456 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100pF"
+			(at 31.75 93.9736 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm"
+			(at 27.94 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 27.94 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 27.94 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d08c849c-7be4-4e01-b01d-77330933585c")
+		)
+		(pin "1"
+			(uuid "ed15d5f2-69ea-4f09-ba11-5697ff7f4ee5")
+		)
+		(instances
+			(project "gtPaddle"
+				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
+					(reference "C2")
 					(unit 1)
 				)
 			)
