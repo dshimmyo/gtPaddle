@@ -6246,7 +6246,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-US_0207/10"
+		(property "Value" "3.3k"
 			(at 193.802 49.53 0)
 			(effects
 				(font
@@ -7223,7 +7223,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-US_0207/10"
+		(property "Value" "3.3k"
 			(at 203.962 49.53 0)
 			(effects
 				(font
@@ -7292,7 +7292,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-US_0207/10"
+		(property "Value" "3.3k"
 			(at 173.482 49.53 0)
 			(effects
 				(font
@@ -9030,7 +9030,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-US_0207/10"
+		(property "Value" "3.3k"
 			(at 198.882 49.53 0)
 			(effects
 				(font
@@ -9164,7 +9164,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-US_0207/10"
+		(property "Value" "3.3k"
 			(at 168.402 49.53 0)
 			(effects
 				(font
@@ -9445,7 +9445,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-US_0207/10"
+		(property "Value" "3.3k"
 			(at 183.642 49.53 0)
 			(effects
 				(font
@@ -10075,7 +10075,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-US_0207/10"
+		(property "Value" "3.3k"
 			(at 188.722 49.53 0)
 			(effects
 				(font
@@ -10910,7 +10910,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "R-US_0207/10"
+		(property "Value" "3.3k"
 			(at 178.562 49.53 0)
 			(effects
 				(font
