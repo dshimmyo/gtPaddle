@@ -3277,7 +3277,7 @@
 	)
 	(text "A"
 		(exclude_from_sim no)
-		(at 214.63 52.07 0)
+		(at 229.616 53.086 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3289,7 +3289,7 @@
 	)
 	(text "A"
 		(exclude_from_sim no)
-		(at 245.11 52.07 0)
+		(at 260.35 53.086 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3301,7 +3301,7 @@
 	)
 	(text "B"
 		(exclude_from_sim no)
-		(at 260.096 52.07 0)
+		(at 245.364 53.086 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3384,7 +3384,7 @@
 	)
 	(text "B"
 		(exclude_from_sim no)
-		(at 229.616 52.07 0)
+		(at 214.884 52.832 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6853,7 +6853,8 @@
 	(symbol
 		(lib_name "2N3904_2")
 		(lib_id "Transistor_BJT:2N3904")
-		(at 228.6 68.58 0)
+		(at 215.9 68.58 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6861,7 +6862,7 @@
 		(dnp no)
 		(uuid "2bb1895a-8978-4b97-b3fa-f83d83c61be2")
 		(property "Reference" "Q11"
-			(at 227.584 58.42 90)
+			(at 216.916 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6870,7 +6871,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 225.044 58.42 90)
+			(at 219.456 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6879,7 +6880,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 233.68 70.485 0)
+			(at 210.82 70.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6890,7 +6891,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
-			(at 228.6 68.58 0)
+			(at 215.9 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6900,7 +6901,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
-			(at 228.6 68.58 0)
+			(at 215.9 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8705,7 +8706,8 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:2N3906")
-		(at 246.38 68.58 180)
+		(at 259.08 68.58 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8713,7 +8715,7 @@
 		(dnp no)
 		(uuid "7ab29156-cddf-43e4-856a-c72f96d8592f")
 		(property "Reference" "Q12"
-			(at 247.142 58.928 90)
+			(at 258.318 58.928 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8722,7 +8724,7 @@
 			)
 		)
 		(property "Value" "2N3906"
-			(at 249.682 58.928 90)
+			(at 255.778 58.928 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8731,7 +8733,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 241.3 66.675 0)
+			(at 264.16 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8742,7 +8744,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3906-D.PDF"
-			(at 246.38 68.58 0)
+			(at 259.08 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8752,7 +8754,7 @@
 			)
 		)
 		(property "Description" "-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92"
-			(at 246.38 68.58 0)
+			(at 259.08 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8939,7 +8941,8 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:2N3906")
-		(at 215.9 68.58 180)
+		(at 228.6 68.58 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8947,7 +8950,7 @@
 		(dnp no)
 		(uuid "85f57bcb-48e8-4c57-ad94-16d8260c3096")
 		(property "Reference" "Q10"
-			(at 216.662 58.928 90)
+			(at 227.838 58.928 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8956,7 +8959,7 @@
 			)
 		)
 		(property "Value" "2N3906"
-			(at 219.202 58.928 90)
+			(at 225.298 58.928 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8965,7 +8968,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 210.82 66.675 0)
+			(at 233.68 66.675 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8976,7 +8979,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3906-D.PDF"
-			(at 215.9 68.58 0)
+			(at 228.6 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8986,7 +8989,7 @@
 			)
 		)
 		(property "Description" "-0.2A Ic, -40V Vce, Small Signal PNP Transistor, TO-92"
-			(at 215.9 68.58 0)
+			(at 228.6 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9642,7 +9645,8 @@
 	(symbol
 		(lib_name "2N3904_2")
 		(lib_id "Transistor_BJT:2N3904")
-		(at 259.08 68.58 0)
+		(at 246.38 68.58 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9650,7 +9654,7 @@
 		(dnp no)
 		(uuid "a6938fc5-d66a-4049-97e4-142ebc51f0cb")
 		(property "Reference" "Q13"
-			(at 258.064 58.42 90)
+			(at 247.396 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9659,7 +9663,7 @@
 			)
 		)
 		(property "Value" "2N3904"
-			(at 255.524 58.42 90)
+			(at 249.936 58.42 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9668,7 +9672,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
-			(at 264.16 70.485 0)
+			(at 241.3 70.485 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9679,7 +9683,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/2N3903-D.PDF"
-			(at 259.08 68.58 0)
+			(at 246.38 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9689,7 +9693,7 @@
 			)
 		)
 		(property "Description" "0.2A Ic, 40V Vce, Small Signal NPN Transistor, TO-92"
-			(at 259.08 68.58 0)
+			(at 246.38 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
