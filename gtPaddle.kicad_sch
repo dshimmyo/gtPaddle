@@ -777,6 +777,169 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Connector:Conn_01x02_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x02_Pin"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x02, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x02_Pin_1_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector:Conn_01x03_Pin"
 			(pin_names
 				(offset 1.016)
@@ -1750,185 +1913,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "gpad1-eagle-import:CHERRY_MX"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at -5.08 2.54 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" ""
-				(at -5.08 -2.54 0)
-				(effects
-					(font
-						(size 1.778 1.5113)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "gpad1:CHERRY_MX"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "CHERRY_MX_1_0"
-				(polyline
-					(pts
-						(xy -2.0637 1.27) (xy 0 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -2.0637 0)
-					(radius 0.449)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.905) (xy -0.635 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.905) (xy 0.635 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 1.905)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 2.0637 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.0637 0)
-					(radius 0.449)
-					(stroke
-						(width 0.254)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "S1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "S2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "gpad1-eagle-import:GND"
 			(power)
 			(exclude_from_sim no)
@@ -2612,9 +2596,9 @@
 		)
 		(uuid "01c45bb4-67e0-4f76-8d0b-078ade03af2b")
 	)
-	(text "Cap values:\nC1 150pF code 151 - alt 220 pF - ADC clock timing 220 maybe more appropriate for 60fps\nC2 0.1µF code 104 - alt 100pF code 101 - Analog Signal Smoothing\nC3, C4, C5 - 0.1µF code 104 - Power Decoupling standard"
+	(text "Cap values:\nC1 - 220 pF code 221 - alt 150pF code 151 - ADC clock timing 220 perfect for 16.6ms\nC2 - 0.1µF code 104 - alt 100pF code 101 - Analog Signal Smoothing\nC3, C4, C5 - 0.1µF code 104 - Power Decoupling standard"
 		(exclude_from_sim no)
-		(at 29.718 167.894 0)
+		(at 20.066 172.974 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2675,7 +2659,7 @@
 	)
 	(text "Bits from ADC\n0-Up Pin 1 Up\n1-Dn Pin 2 Dn\n2-Lf Pin 3 Lf\n3-Rt Pin 4 Right\n4-X Pin 3 X Mux\n5-Y Pin 2 Y\n6-Z Pin 1 Z\n7-Mode Pin 4 Mode\n\nPort Pin 7 Select goes thru inverter NPN to ADC3\nSecond inverter as buffer for select just in case"
 		(exclude_from_sim no)
-		(at 62.23 119.38 0)
+		(at 20.066 148.59 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2829,10 +2813,10 @@
 		(uuid "7a452906-fb9d-4249-855b-bbbea1803b00")
 	)
 	(junction
-		(at 118.11 132.08)
+		(at 118.11 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "7f3b2fa0-a5b9-4e47-9116-106189b7e7cd")
+		(uuid "7c8aee7e-dd91-44b2-af97-ce792d2eb271")
 	)
 	(junction
 		(at 213.36 119.38)
@@ -2857,6 +2841,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "992094af-826d-4459-bf14-2b2830b9d426")
+	)
+	(junction
+		(at 118.11 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "998b118d-5023-458c-98b9-ea35906236a8")
 	)
 	(junction
 		(at 154.94 109.22)
@@ -2893,12 +2883,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf326e21-83f4-4bd0-a7d9-486cad1b890a")
-	)
-	(junction
-		(at 118.11 124.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c1faabe6-e05b-45c5-b11b-83347702b534")
 	)
 	(junction
 		(at 213.36 69.85)
@@ -2943,12 +2927,6 @@
 		(uuid "ddfc7d05-023c-46cd-b9f6-abb1a441da76")
 	)
 	(junction
-		(at 118.11 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e04fb070-dfd1-43f2-b964-8acb0e93167d")
-	)
-	(junction
 		(at 210.82 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2959,6 +2937,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ebca893a-5fe2-4825-a8c3-64fb28710ff2")
+	)
+	(junction
+		(at 118.11 132.08)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eed17875-dbf1-41c4-9e1c-1219093df0a0")
 	)
 	(junction
 		(at 39.37 97.79)
@@ -3013,16 +2997,6 @@
 			(type default)
 		)
 		(uuid "0a4563f4-c363-4109-8105-23de2453b04e")
-	)
-	(wire
-		(pts
-			(xy 128.27 116.84) (xy 149.86 116.84)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "0a65117d-d5cc-4ef4-a341-75e6d8c76cf9")
 	)
 	(wire
 		(pts
@@ -3123,6 +3097,16 @@
 			(type solid)
 		)
 		(uuid "1e1c6026-f287-46b6-afb4-877e6c51ea66")
+	)
+	(wire
+		(pts
+			(xy 118.11 109.22) (xy 121.92 109.22)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "1f74bb52-113e-4583-89c6-3db852ef7b32")
 	)
 	(wire
 		(pts
@@ -3246,7 +3230,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 132.08) (xy 118.11 139.7)
+			(xy 118.11 116.84) (xy 118.11 124.46)
 		)
 		(stroke
 			(width 0.1524)
@@ -3376,13 +3360,23 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 124.46) (xy 144.78 124.46)
+			(xy 124.46 109.22) (xy 154.94 109.22)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "44b07e7f-a1bd-4e76-ab03-7db39c9df5ff")
+		(uuid "4365faed-467c-4186-8be6-225271151285")
+	)
+	(wire
+		(pts
+			(xy 118.11 132.08) (xy 121.92 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "46580765-7b62-4b08-b0f0-409d8d5f878c")
 	)
 	(wire
 		(pts
@@ -3436,7 +3430,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 116.84) (xy 118.11 124.46)
+			(xy 118.11 109.22) (xy 118.11 116.84)
 		)
 		(stroke
 			(width 0.1524)
@@ -3506,6 +3500,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 124.46) (xy 144.78 124.46)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "51f5cad1-4db5-4f14-b885-045992de9f77")
+	)
+	(wire
+		(pts
 			(xy 55.88 76.2) (xy 55.88 69.85)
 		)
 		(stroke
@@ -3543,6 +3547,16 @@
 			(type default)
 		)
 		(uuid "589640b7-7952-4356-865a-07616ed73903")
+	)
+	(wire
+		(pts
+			(xy 124.46 132.08) (xy 139.7 132.08)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "5931dfde-8357-4b99-956d-883f681715b6")
 	)
 	(wire
 		(pts
@@ -3613,16 +3627,6 @@
 			(type default)
 		)
 		(uuid "64949f09-5235-471c-a100-efc7af14e630")
-	)
-	(wire
-		(pts
-			(xy 128.27 132.08) (xy 139.7 132.08)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "64bc800c-5b2e-4a95-8404-9391dec15a1c")
 	)
 	(wire
 		(pts
@@ -3756,6 +3760,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 124.46) (xy 121.92 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7281de2e-adf4-4300-9f4a-907f423df425")
+	)
+	(wire
+		(pts
 			(xy 186.69 43.18) (xy 210.82 43.18)
 		)
 		(stroke
@@ -3866,16 +3880,6 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 109.22) (xy 154.94 109.22)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "81491398-1399-4782-9877-ba51895435c4")
-	)
-	(wire
-		(pts
 			(xy 26.67 95.25) (xy 58.42 95.25)
 		)
 		(stroke
@@ -3886,13 +3890,13 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 109.22) (xy 118.11 116.84)
+			(xy 124.46 116.84) (xy 149.86 116.84)
 		)
 		(stroke
 			(width 0.1524)
 			(type solid)
 		)
-		(uuid "83f77494-1c0d-4b9f-8bec-b02055bd87a7")
+		(uuid "825f92be-21d4-48d8-aac3-8492b47f3c54")
 	)
 	(wire
 		(pts
@@ -3953,16 +3957,6 @@
 			(type default)
 		)
 		(uuid "8841a834-4c21-48af-819c-73829feb628f")
-	)
-	(wire
-		(pts
-			(xy 118.11 124.46) (xy 118.11 132.08)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "885384ef-b3b6-4d56-a2c8-221c53a104be")
 	)
 	(wire
 		(pts
@@ -4406,6 +4400,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 124.46) (xy 118.11 132.08)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "bc0ace34-65ca-402b-af29-6c1398351ce9")
+	)
+	(wire
+		(pts
 			(xy 57.15 82.55) (xy 53.34 86.36)
 		)
 		(stroke
@@ -4526,6 +4530,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 132.08) (xy 118.11 146.05)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "db591771-66ba-4d64-abbe-1ad95d314268")
+	)
+	(wire
+		(pts
 			(xy 176.53 120.65) (xy 194.31 100.33)
 		)
 		(stroke
@@ -4553,6 +4567,16 @@
 			(type solid)
 		)
 		(uuid "dfc77438-662e-4849-988f-b6d4cded9743")
+	)
+	(wire
+		(pts
+			(xy 118.11 116.84) (xy 121.92 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e100f688-9a12-45f0-b739-71c86b27ad83")
 	)
 	(wire
 		(pts
@@ -5088,34 +5112,34 @@
 		)
 	)
 	(symbol
-		(lib_id "gpad1-eagle-import:CHERRY_MX")
-		(at 123.19 116.84 0)
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 124.46 127 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "12e1dcaf-c470-42f2-af14-8865c34d3458")
-		(property "Reference" "B0"
-			(at 118.11 114.3 0)
+		(uuid "13d586a7-4c9d-45ec-ab25-c8ba3b81f2c0")
+		(property "Reference" "J4"
+			(at 103.124 125.73 90)
 			(effects
 				(font
-					(size 1.778 1.5113)
+					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left top)
 			)
 		)
-		(property "Value" "CHERRY_MX"
-			(at 118.11 119.38 0)
+		(property "Value" "Conn_01x02_Pin"
+			(at 101.854 128.016 90)
 			(effects
 				(font
-					(size 1.778 1.5113)
+					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left top)
 			)
 		)
-		(property "Footprint" "gpad1:CHERRY_MX"
-			(at 123.19 116.84 0)
+		(property "Footprint" ""
+			(at 124.46 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5123,8 +5147,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 123.19 116.84 0)
+		(property "Datasheet" "~"
+			(at 124.46 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5132,24 +5156,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 123.19 116.84 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 124.46 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(pin "S1"
-			(uuid "4d49e9a0-a3a3-414f-9471-4860de60c860")
+		(pin "2"
+			(uuid "6b06d77b-8245-462e-9e8c-cdee0170c98f")
 		)
-		(pin "S2"
-			(uuid "76139b4d-8672-4b83-94b2-c85d00f0762f")
+		(pin "1"
+			(uuid "afc5ba2d-e603-47b4-9c8b-389f18bb39c8")
 		)
 		(instances
 			(project "gtPaddle"
 				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
-					(reference "B0")
+					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -5557,6 +5582,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 124.46 119.38 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5247a5de-d44f-4a0a-8986-9dfed523540c")
+		(property "Reference" "J3"
+			(at 103.124 118.11 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 101.854 120.396 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 124.46 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "984ab342-03b0-4304-b619-823cb6b0a7b6")
+		)
+		(pin "1"
+			(uuid "5d6127b6-06cf-43b3-b669-64d4b9f07553")
+		)
+		(instances
+			(project "gtPaddle"
+				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "gpad1-eagle-import:R-US_0207/10")
 		(at 46.99 67.31 90)
 		(unit 1)
@@ -5628,7 +5722,7 @@
 	)
 	(symbol
 		(lib_id "gpad1-eagle-import:GND")
-		(at 118.11 142.24 0)
+		(at 118.11 148.59 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5636,7 +5730,7 @@
 		(dnp no)
 		(uuid "5d6eca9a-80d8-40fe-bd1f-d7da04966345")
 		(property "Reference" "#GND1"
-			(at 118.11 142.24 0)
+			(at 118.11 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5645,7 +5739,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 144.78 0)
+			(at 115.57 151.13 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -5654,7 +5748,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 118.11 142.24 0)
+			(at 118.11 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5663,7 +5757,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 118.11 142.24 0)
+			(at 118.11 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5672,7 +5766,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 118.11 142.24 0)
+			(at 118.11 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5692,34 +5786,34 @@
 		)
 	)
 	(symbol
-		(lib_id "gpad1-eagle-import:CHERRY_MX")
-		(at 123.19 132.08 0)
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 124.46 104.14 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5e63fdf3-4ca5-447b-8bc4-7e7ecfdb76a5")
-		(property "Reference" "C0"
-			(at 118.11 129.54 0)
+		(uuid "63f33e7e-ae0f-48de-b991-e51b2ce670f9")
+		(property "Reference" "J1"
+			(at 103.632 103.886 90)
 			(effects
 				(font
-					(size 1.778 1.5113)
+					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left top)
 			)
 		)
-		(property "Value" "CHERRY_MX"
-			(at 118.11 134.62 0)
+		(property "Value" "Conn_01x02_Pin"
+			(at 101.6 106.68 90)
 			(effects
 				(font
-					(size 1.778 1.5113)
+					(size 1.27 1.27)
 				)
-				(justify left bottom)
+				(justify left top)
 			)
 		)
-		(property "Footprint" "gpad1:CHERRY_MX"
-			(at 123.19 132.08 0)
+		(property "Footprint" ""
+			(at 124.46 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5727,8 +5821,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
-			(at 123.19 132.08 0)
+		(property "Datasheet" "~"
+			(at 124.46 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5736,24 +5830,25 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 123.19 132.08 0)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 124.46 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(pin "S1"
-			(uuid "35c4a71a-fead-489b-80a4-8f5eabe8f7a2")
+		(pin "2"
+			(uuid "64f8eb02-abf7-4f27-9a19-221428918c84")
 		)
-		(pin "S2"
-			(uuid "a912b56c-ac55-4989-8813-bc3668f2189e")
+		(pin "1"
+			(uuid "737b8dc4-a5bc-4bf3-bfb2-ff7261f4628b")
 		)
 		(instances
-			(project "gtPaddle"
+			(project ""
 				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
-					(reference "C0")
+					(reference "J1")
 					(unit 1)
 				)
 			)
@@ -6627,74 +6722,6 @@
 		)
 	)
 	(symbol
-		(lib_id "gpad1-eagle-import:CHERRY_MX")
-		(at 123.19 124.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "96c6a6b3-c9eb-410f-a7d5-ba9de292d761")
-		(property "Reference" "START0"
-			(at 118.11 121.92 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CHERRY_MX"
-			(at 118.11 127 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "gpad1:CHERRY_MX"
-			(at 123.19 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 123.19 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "S1"
-			(uuid "cef99e2e-01c3-465f-be7b-620179bfe8e0")
-		)
-		(pin "S2"
-			(uuid "46c149db-269a-42f0-ac9c-c3cc33585f24")
-		)
-		(instances
-			(project "gtPaddle"
-				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
-					(reference "START0")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "gpad1-eagle-import:R-US_0207/10")
 		(at 194.31 25.4 90)
 		(unit 1)
@@ -6962,6 +6989,75 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:Conn_01x02_Pin")
+		(at 124.46 111.76 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b2224b74-5dcc-4a94-b63e-319d47e1b7c6")
+		(property "Reference" "J2"
+			(at 103.124 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Value" "Conn_01x02_Pin"
+			(at 101.854 112.776 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(property "Footprint" ""
+			(at 124.46 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 124.46 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated"
+			(at 124.46 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ca99f9eb-6e2e-47b5-a49d-893eb9087dc4")
+		)
+		(pin "1"
+			(uuid "967dcac8-2d27-430c-adfc-274c8c24836a")
+		)
+		(instances
+			(project "gtPaddle"
+				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "gpad1-eagle-import:GND")
 		(at 252.73 97.79 0)
 		(unit 1)
@@ -7049,6 +7145,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm"
@@ -7537,74 +7634,6 @@
 			(project "gtPaddle"
 				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
 					(reference "#P+04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "gpad1-eagle-import:CHERRY_MX")
-		(at 123.19 109.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "e76db537-65c6-4eba-b295-594f00afffc9")
-		(property "Reference" "A0"
-			(at 118.11 106.68 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Value" "CHERRY_MX"
-			(at 118.11 111.76 0)
-			(effects
-				(font
-					(size 1.778 1.5113)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Footprint" "gpad1:CHERRY_MX"
-			(at 123.19 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 123.19 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 123.19 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "S1"
-			(uuid "c5c81fd3-8ef6-464d-88a4-c326212c8e63")
-		)
-		(pin "S2"
-			(uuid "0cd099c6-69e1-4c95-b858-d554c699e4ff")
-		)
-		(instances
-			(project "gtPaddle"
-				(path "/c5464c22-a126-4ab8-80aa-854ba8f179d8"
-					(reference "A0")
 					(unit 1)
 				)
 			)
