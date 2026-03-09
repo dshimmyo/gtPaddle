@@ -2612,6 +2612,17 @@
 		)
 		(uuid "01c45bb4-67e0-4f76-8d0b-078ade03af2b")
 	)
+	(text "Cap values:\nC1 150pF code 151 - alt 220 pF - ADC clock timing 220 maybe more appropriate for 60fps\nC2 0.1µF code 104 - alt 100pF code 101 - Analog Signal Smoothing\nC3, C4, C5 - 0.1µF code 104 - Power Decoupling standard"
+		(exclude_from_sim no)
+		(at 29.718 167.894 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0fba49ae-f536-4f28-afa2-271a41a65c7c")
+	)
 	(text "MODE"
 		(exclude_from_sim no)
 		(at 136.144 84.836 0)
