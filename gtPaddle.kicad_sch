@@ -7146,7 +7146,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92S-EBC"
 			(at 170.18 42.545 0)
 			(effects
 				(font
@@ -7222,7 +7222,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92S-EBC"
 			(at 133.35 42.545 0)
 			(effects
 				(font
@@ -9048,7 +9048,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92S-EBC"
 			(at 129.54 42.545 0)
 			(effects
 				(font
@@ -10512,7 +10512,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92S-EBC"
 			(at 240.665 156.21 0)
 			(effects
 				(font
@@ -10900,7 +10900,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_THT:TO-92_Inline"
+		(property "Footprint" "Package_TO_SOT_THT:TO-92S-EBC"
 			(at 166.37 42.545 0)
 			(effects
 				(font

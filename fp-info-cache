@@ -1,4 +1,4 @@
-26438640871289918
+26440414049387871
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -90973,6 +90973,13 @@ to-92Mini transistor
 2
 Package_TO_SOT_THT
 TO-92S
+TO-92S package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf, https://www.mouser.com/datasheet/2/196/Infineon_TLV4961_1TAB_DataSheet_v01_20_EN-3363873.pdf#page=16, hole and pad size from TI land pattern in https://www.ti.com/lit/ds/symlink/lmt85.pdf#page=22)
+transistor TO-92S-Type-B Allegro-3-pin-SIP LPG0003A
+0
+3
+3
+Package_TO_SOT_THT
+TO-92S-EBC
 TO-92S package, drill 0.75mm (https://www.diodes.com/assets/Package-Files/TO92S%20(Type%20B).pdf, https://www.mouser.com/datasheet/2/196/Infineon_TLV4961_1TAB_DataSheet_v01_20_EN-3363873.pdf#page=16, hole and pad size from TI land pattern in https://www.ti.com/lit/ds/symlink/lmt85.pdf#page=22)
 transistor TO-92S-Type-B Allegro-3-pin-SIP LPG0003A
 0
