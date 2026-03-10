@@ -6408,7 +6408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 46.99 57.15 0)
 			(effects
 				(font
@@ -6477,7 +6477,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 214.63 59.69 0)
 			(effects
 				(font
@@ -7007,7 +7007,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 257.81 153.67 0)
 			(effects
 				(font
@@ -7076,7 +7076,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 127 24.13 0)
 			(effects
 				(font
@@ -7297,7 +7297,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 214.63 67.31 0)
 			(effects
 				(font
@@ -7366,7 +7366,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 180.34 45.72 0)
 			(effects
 				(font
@@ -7436,7 +7436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 137.16 110.49 0)
 			(effects
 				(font
@@ -7704,7 +7704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 46.99 76.2 0)
 			(effects
 				(font
@@ -7773,7 +7773,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 163.83 24.13 0)
 			(effects
 				(font
@@ -7974,7 +7974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 119.38 45.72 0)
 			(effects
 				(font
@@ -8110,7 +8110,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 247.65 146.05 0)
 			(effects
 				(font
@@ -8312,7 +8312,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 46.99 59.69 0)
 			(effects
 				(font
@@ -8755,7 +8755,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 143.51 45.72 0)
 			(effects
 				(font
@@ -8914,7 +8914,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 214.63 71.12 0)
 			(effects
 				(font
@@ -9189,7 +9189,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 132.08 110.49 0)
 			(effects
 				(font
@@ -9257,7 +9257,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 214.63 63.5 0)
 			(effects
 				(font
@@ -9391,7 +9391,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 147.32 110.49 0)
 			(effects
 				(font
@@ -9929,7 +9929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 156.21 45.72 0)
 			(effects
 				(font
@@ -10376,7 +10376,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 135.89 24.13 0)
 			(effects
 				(font
@@ -10697,7 +10697,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 172.72 24.13 0)
 			(effects
 				(font
@@ -10832,7 +10832,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "gpad1:0207_10"
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P2.54mm_Vertical"
 			(at 142.24 110.49 0)
 			(effects
 				(font
