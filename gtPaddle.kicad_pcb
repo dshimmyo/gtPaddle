@@ -10626,7 +10626,7 @@
 		)
 	)
 	(gr_text "WayWayWay"
-		(at 165 136.6 0)
+		(at 162.8 136.5 0)
 		(layer "B.SilkS")
 		(uuid "3c3523c3-3ee7-4930-865e-11f3083eca0b")
 		(effects
@@ -11957,7 +11957,7 @@
 		(uuid "b4da0e8d-ed63-4449-af27-321b3206a0ea")
 	)
 	(via
-		(at 130.5 71)
+		(at 128 75.5)
 		(size 0.6)
 		(drill 0.3)
 		(layers "F.Cu" "B.Cu")
