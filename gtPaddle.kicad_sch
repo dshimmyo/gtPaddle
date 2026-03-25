@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "c5464c22-a126-4ab8-80aa-854ba8f179d8")
 	(paper "A4")
+	(title_block
+		(title "License: TAPR OHL - DKS Interactive LLC")
+	)
 	(lib_symbols
 		(symbol "2N3904_1"
 			(pin_names
