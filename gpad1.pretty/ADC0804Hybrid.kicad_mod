@@ -1453,4 +1453,15 @@
 		(uuid "49124d26-04fe-4f93-a326-c4a23e4b9b57")
 	)
 	(embedded_fonts no)
+	(model "${KIPRJMOD}/ADC0804LCN.step"
+		(offset
+			(xyz -3.75 11.5 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
 )
