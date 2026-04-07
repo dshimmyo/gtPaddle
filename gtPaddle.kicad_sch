@@ -6524,7 +6524,7 @@
 				)
 			)
 		)
-		(property "Footprint" "gpad1:DIP254P762X508-20"
+		(property "Footprint" "gpad1:ADC0804Hybrid"
 			(at 64.77 74.93 0)
 			(effects
 				(font
