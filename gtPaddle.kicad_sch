@@ -5313,7 +5313,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_bigHoles"
 			(at 105.41 129.54 0)
 			(effects
 				(font
@@ -5849,7 +5849,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_bigHoles"
 			(at 105.41 121.92 0)
 			(effects
 				(font
@@ -6187,7 +6187,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_bigHoles"
 			(at 105.41 106.68 0)
 			(effects
 				(font
@@ -7634,7 +7634,7 @@
 				(justify left top)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical_bigHoles"
 			(at 105.41 114.3 0)
 			(effects
 				(font
@@ -7835,7 +7835,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical_bigHoles"
 			(at 21.59 62.23 0)
 			(effects
 				(font
