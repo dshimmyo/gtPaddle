@@ -762,7 +762,7 @@
       {
         "filename": "gtPaddle.kicad_sch",
         "name": "gtPaddle",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "c5464c22-a126-4ab8-80aa-854ba8f179d8"
       }
     ],
     "used_designators": "",
@@ -771,7 +771,7 @@
   "sheets": [
     [
       "c5464c22-a126-4ab8-80aa-854ba8f179d8",
-      "Root"
+      "gtPaddle"
     ]
   ],
   "text_variables": {},
